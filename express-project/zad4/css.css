@@ -1,0 +1,15 @@
+/* public/css/main.css */
+.navigation {
+    background-color: #f0f0f0;
+    padding: 10px;
+}
+
+.navigation a {
+    color: blue;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.navigation a:hover {
+    text-decoration: underline;
+}
